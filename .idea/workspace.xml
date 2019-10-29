@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae3e06b-02be-48fc-8857-333f0c10de7f" name="Default Changelist" comment="Clone to Local">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_Grundlagen.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571656831501</updated>
       <workItem from="1571656832892" duration="165000" />
+      <workItem from="1572346217171" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="Clone to Local">
       <created>1571656867373</created>
@@ -73,7 +72,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
